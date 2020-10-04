@@ -15,8 +15,8 @@ import telebot
 base_url = "https://www.e1.ru"
 post_link = ""
 
-TOKEN = '1289644176:AAG4yRgFOEHYCwabDmQpxhPqIRNcXslh6Js'
-CHANNEL_NAME = '@e1_unofficial'
+TOKEN = 'Sicret TG token'
+CHANNEL_NAME = 'channel name to send message'
 TIME_TO_CHECK_NEWS = 300
 
 bot = telebot.TeleBot(TOKEN)
